@@ -48,7 +48,8 @@
         name: name,
         email: email,
         location: form.querySelector('#location').value,
-        message: form.querySelector('#message').value
+        message: form.querySelector('#message').value,
+        _captcha: 'false'
       })
     })
       .then(function (res) {
