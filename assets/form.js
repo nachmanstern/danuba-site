@@ -38,7 +38,7 @@
 
     setStatus(strings.sending, 'ok');
 
-    fetch('https://formsubmit.co/ajax/stern.nachman@mail.huji.ac.il', {
+    fetch('https://formsubmit.co/ajax/nachistern5@gmail.com', {
       method: 'POST',
       headers: {
         'Accept': 'application/json',
